@@ -1,5 +1,5 @@
 {
-  "image": "gcriodistroless/base-debian10:latest",
+  "image": "mcr.microsoft.com/devcontainers/base:",
   "features": {
   }
 }
